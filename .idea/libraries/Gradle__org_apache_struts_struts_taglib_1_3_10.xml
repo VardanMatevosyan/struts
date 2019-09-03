@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.struts:struts-taglib:1.3.10">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/org.apache.struts/struts-taglib/1.3.10/9ef247d8eb03a09a3b1c9d434f9f9acd45ba1c62/struts-taglib-1.3.10.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/org.apache.struts/struts-taglib/1.3.10/e3b500f11d5ac07a73928be233455ccbbbb73c34/struts-taglib-1.3.10-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -11,13 +11,19 @@
 
 <body>
 <h1>Home Page</h1>
-
 <html:form action="/login.do" focus="username">
-    <span style="color:red">
-    <html:errors/>
-    </span>
+    <div>
+        <span style="color:red">
+            <html:errors property="username" />
+        </span>
+    </div>
     Username : <html:text property="username" />
     <br>
+    <div>
+        <span style="color:red">
+        <html:errors property="password"/>
+        </span>
+    </div>
     Password : <html:password property="password" />
     <br>
     <html:submit value="login" />
